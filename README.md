@@ -1,7 +1,7 @@
 # WGT-InteractiveToy
 A group project where we designed a 2-Player toy to entertain children on long car journeys, without relying on a screen. Each player held a steering wheel and had to react to the movements of the vehicle their were in, racing to mimic its motion before their opponent. The full system consisted of:
 - 2 Xiao ESP32-S3s
-- 1 Inertial Momentum Unit
+- 1 Inertial Measurement Unit
 - 2 Rotary Encoders
 - 2 LCD Displays
 - 4 Buttons
